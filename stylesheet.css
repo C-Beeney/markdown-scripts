@@ -1,0 +1,11 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-decoration: underline;
+}
+
+html {
+    font-family: "Times New Roman", Times, serif;
+}
